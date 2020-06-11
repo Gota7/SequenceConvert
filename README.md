@@ -1,5 +1,5 @@
 # SequenceConvert
-Converter for DS, Wii, 3ds, Wii U, and 3ds sequences. MIDI converting is planned in the future.
+Converter for DS, Wii, 3ds, Wii U, and Switch sequences. MIDI converting is planned in the future.
 
 ## Download
 [Here](https://github.com/Gota7/SequenceConvert/raw/master/Download/SequenceConvert.exe)
